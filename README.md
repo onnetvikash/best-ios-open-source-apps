@@ -31,6 +31,7 @@ Every app below belongs to its original authors and is linked to its official re
 | Firefox for iOS | Mozilla's iOS browser | [mozilla-mobile/firefox-ios](https://github.com/mozilla-mobile/firefox-ios) |
 | DuckDuckGo | Privacy-focused browser | [duckduckgo/iOS](https://github.com/duckduckgo/iOS) |
 | Brave | Privacy-first browser | [brave/brave-ios](https://github.com/brave/brave-ios) |
+| BitTool Signer for iOS | Offline cryptocurrency signing with local keys and QR request/signature exchange; does not anonymize transactions | [bitbill/bittool-signer-ios](https://github.com/bitbill/bittool-signer-ios) |
 
 ## Media & Reading
 
